@@ -184,7 +184,6 @@ Authenticator app ✓
 | `TG_BOT_TOKEN` | 第二步的 Token: `6123456789:AAHxxxxx...` |
 | `TG_CHAT_ID` | 第二步的 Chat ID: `123456789` |
 | `REPO_TOKEN` | 第四步的4.2 GitHub PAT: `ghp_xxxxxxxxxxxx` |
-| `PROXY_HY2` | Hysteria2 代理 `hysteria2://password@host:port?sni=xxx&alpn=xxx&insecure=1#name` |
 
 ### 4.4 确认完成
 
